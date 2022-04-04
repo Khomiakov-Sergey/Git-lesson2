@@ -22,4 +22,5 @@ public class HelperForCollections {
 
     // some changes
     // some changes1
+    // some changes2
 }
