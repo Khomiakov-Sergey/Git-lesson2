@@ -19,4 +19,6 @@ public class HelperForCollections {
         }
         return list;
     }
+
+    // some changes
 }
