@@ -11,4 +11,12 @@ public class HelperForCollections {
         }
         return list;
     }
+
+    public static List<Integer> fillTheArrayList (int numberOfElements, int maxValue){
+        List<Integer> list = new ArrayList<>();
+        for (int i = 0; i < numberOfElements; i++){
+            list.add((int)(Math.random()*maxValue+1));
+        }
+        return list;
+    }
 }
